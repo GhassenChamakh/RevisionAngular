@@ -1,0 +1,7 @@
+<fieldset *ngFor="let p of product">
+  <legend>{{p.name}}</legend>
+  <p>price : {{p.price}}</p>
+  <button (click)="addToCart(p)"> Buy</button>
+  <button (click)="selectProduct(p)">Details</button>
+  </fieldset>
+  <app-details *ngIf="selectedProduct !== undefined" [product]="selectedProduct"></app-details>

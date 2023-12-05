@@ -1,0 +1,30 @@
+{
+  "product": [
+    {
+      "name": "gh",
+      "price": "5",
+      "desc": "khfuihfdj;ncsjkh",
+      "id": 1
+    },
+    {
+      "name": "gyuyug",
+      "price": "huug",
+      "desc": "jioijoj",
+      "id": 2
+    }
+  ],
+  "cart": [
+    {
+      "name": "gh",
+      "price": "5",
+      "desc": "khfuihfdj;ncsjkh",
+      "id": 1
+    },
+    {
+      "name": "gyuyug",
+      "price": "huug",
+      "desc": "jioijoj",
+      "id": 2
+    }
+  ]
+}
